@@ -34,7 +34,7 @@ C) Data Analysis
     2. What is the average movie revenue and what can a movie studio do make twice as much?
         ![](https://github.com/ARuizMartinezDeloitte/Capstone/blob/main/images/studio%20production%20budget.PNG)
     3. Do longer shorter movies make more money?
-        ![](https://github.com/ARuizMartinezDeloitte/Capstone/blob/main/images/Age%20Ratings.PNG)
+        ![](https://github.com/ARuizMartinezDeloitte/Capstone/blob/main/images/runtime.PNG)
 
 
 lll.- Cleaning and Modifying Data
