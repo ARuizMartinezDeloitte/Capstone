@@ -47,9 +47,9 @@ C) Data Analysis
 
 lll.- Statistical Communication
 
-A) From the data we found out that PG-13 and PG made the most revenue on average. We believe that family friednly movies make more money because they have a wider audience.
-B) From the data we found out that the more money a studio spends on production, the money they'll generate from the worldwide box-office on average.
-C) From the data we found that movies that are shorter the average run-time of 107 minutes on average don't usually make as much money as longer movies.
+    A) From the data we found out that PG-13 and PG made the most revenue on average. We believe that family friednly movies make more money because they have a wider audience.
+    B) From the data we found out that the more money a studio spends on production, the money they'll generate from the worldwide box-office on average.
+    C) From the data we found that movies that are shorter the average run-time of 107 minutes on average don't usually make as much money as longer movies.
     
 
 V.- Conclusion
